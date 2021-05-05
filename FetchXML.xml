@@ -12,7 +12,7 @@
     <order attribute="eve_name" descending="false" />
     <filter type="and">
       <condition attribute="eve_cliente" operator="eq" uiname="Alejandro Martin Fernandez" uitype="account" value="{1E0501DB-70A6-EB11-B1AC-000D3ADD7701}" />
-      <condition attribute="eve_familybanker" operator="eq" uiname="NEREA HERMOSILLA TERCILLA" uitype="contact" value="{CB3EE316-2742-E811-A954-000D3AB2924F}" />
+      <condition attribute="eve_familybanker" operator="eq" uiname="NEREA HERA TERCILLA" uitype="contact" value="{CB3EE316-2742-E811-A954-000D3AB2924F}" />
     </filter>
   </entity>
 </fetch>
