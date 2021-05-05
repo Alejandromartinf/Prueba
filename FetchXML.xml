@@ -2,6 +2,7 @@
   <entity name="eve_relacionclientefb">
     <attribute name="eve_relacionclientefbid" />
     <attribute name="eve_failed" />
+    <attribute name="eve_correcto" />
     <attribute name="createdon" />
     <attribute name="eve_familybanker" />
     <attribute name="statecode" />
