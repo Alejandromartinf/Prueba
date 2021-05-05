@@ -1,0 +1,15 @@
+<fetch version="1.0" output-format="xml-platform" mapping="logical" distinct="false">
+  <entity name="eve_relacionclientefb">
+    <attribute name="eve_relacionclientefbid" />
+    <attribute name="eve_name" />
+    <attribute name="createdon" />
+    <attribute name="eve_familybanker" />
+    <attribute name="statecode" />
+    <attribute name="eve_cliente" />
+    <order attribute="eve_name" descending="false" />
+    <filter type="and">
+      <condition attribute="eve_cliente" operator="eq" uiname="Alejandro Martin Fernandez" uitype="account" value="{1E0501DB-70A6-EB11-B1AC-000D3ADD7701}" />
+      <condition attribute="eve_familybanker" operator="eq" uiname="NEREA HERMOSILLA TERCILLA" uitype="contact" value="{CB3EE316-2742-E811-A954-000D3AB2924F}" />
+    </filter>
+  </entity>
+</fetch>
