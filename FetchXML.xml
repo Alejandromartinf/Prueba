@@ -5,6 +5,7 @@
     <attribute name="eve_correcto" />
     <attribute name="createdon" />
     <attribute name="eve_familybanker" />
+	<attribute name="eve" />
     <attribute name="statecode" />
     <attribute name="eve_cliente_aux2" />
     <order attribute="eve_name" descending="false" />
