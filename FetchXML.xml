@@ -1,7 +1,7 @@
 <fetch version="1.0" output-format="xml-platform" mapping="logical" distinct="false">
   <entity name="eve_relacionclientefb">
     <attribute name="eve_relacionclientefbid" />
-    <attribute name="eve_fail" />
+    <attribute name="eve_failed" />
     <attribute name="createdon" />
     <attribute name="eve_familybanker" />
     <attribute name="statecode" />
