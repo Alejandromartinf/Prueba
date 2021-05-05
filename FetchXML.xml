@@ -5,7 +5,7 @@
     <attribute name="createdon" />
     <attribute name="eve_familybanker" />
     <attribute name="statecode" />
-    <attribute name="eve_cliente" />
+    <attribute name="eve_cliente_aux" />
     <order attribute="eve_name" descending="false" />
     <filter type="and">
       <condition attribute="eve_cliente" operator="eq" uiname="Alejandro Martin Fernandez" uitype="account" value="{1E0501DB-70A6-EB11-B1AC-000D3ADD7701}" />
